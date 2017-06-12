@@ -50,10 +50,10 @@ npm install
 ```
 npm start
 ```
-默认端口是3000，可以到bin里边的www文件查看，或者自己修改吧~
+_**默认端口是3000，可以到bin里边的www文件查看，或者自己修改吧~**_
 
 ![Express](/express_test/public/images/191404355634870.png "express")
 
-浏览器输入地址 *localhost:3000*出现如下图结果即成功了
+_**浏览器输入地址 *localhost:3000*出现如下图结果即成功了**_
 
 ![Express](/express_test/public/images/191403291884693.png "express")
