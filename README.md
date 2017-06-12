@@ -18,7 +18,7 @@ express --version
 ```
 npm install -g express-generator
 ```
-![Express](/express_test/public/images/timg.jpg "express")
+![Express](/express_test/public/images/191228442519379.png "express")
 ## 二、创建项目express_test
 ```
 express -e express_test
@@ -52,8 +52,8 @@ npm start
 ```
 默认端口是3000，可以到bin里边的www文件查看，或者自己修改吧~
 
-![Express](/express_test/public/images/timg.jpg "express")
+![Express](/express_test/public/images/191404355634870.png "express")
 
 浏览器输入地址 *localhost:3000*出现如下图结果即成功了
 
-![Express](/express_test/public/images/timg.jpg "express")
+![Express](/express_test/public/images/191403291884693.png "express")
